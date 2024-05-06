@@ -69,7 +69,7 @@ li{
     padding-inline: 30px;
     border: 2px solid darkcyan;
 }
-.home:hover{
+.active:hover{
     background-color: transparent;
     color: darkcyan;
 }
