@@ -1,0 +1,22 @@
+.aboutcontainer{
+    margin-top: 15px;
+    display: flex;
+}
+
+.aboutcontainer img{
+    width: 500px;
+    margin-left: 50px;
+    margin-bottom: 3%;
+}
+
+.abouttext{
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.abouttitle{
+    color: darkcyan;
+    margin-bottom: 5%;
+    font-size: 40px;
+}
